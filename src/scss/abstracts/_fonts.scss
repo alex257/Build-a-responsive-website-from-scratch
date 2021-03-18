@@ -1,0 +1,20 @@
+/* Lora */
+@font-face {
+    font-family: "Public Sans Regular";
+    font-weight: normal;
+    font-style: normal;
+    src: local("Public Sans Regular"), local("PublicSans-Regular"),
+      url("../../fonts/PublicSans-Regular.otf") format("opentype"),
+      
+}
+
+  /* Public Sans-bold*/
+  @font-face {
+    font-family: "Public Sans Bold";
+    font-weight: normal;
+    font-style: normal;
+    src: local("Public Sans Bold"), local("PublicSans-Bold"),
+      url("../../fonts/PublicSans-Bold.otf") format("opentype"),
+  }
+  
+  

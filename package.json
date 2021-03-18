@@ -1,0 +1,35 @@
+{
+  "name": "codercoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex257/Build-a-responsive-website-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex257/Build-a-responsive-website-from-scratch/issues"
+  },
+  "homepage": "https://github.com/alex257/Build-a-responsive-website-from-scratch#readme",
+  "devDependencies": {
+     "autoprefixer": "^9.8.6",
+    "browser-sync": "^2.26.14",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser": "^1.4.1",
+    "sass": "^1.32.8"
+  }
+}
