@@ -14,6 +14,10 @@
 @use "layouts/header";
 @use "layouts/footer";
 
-//@use "sections/hero";
+@use "components/animations";
+
+@use "sections/hero";
+@use "sections/features";
+@use "sections/articles";
 
 
